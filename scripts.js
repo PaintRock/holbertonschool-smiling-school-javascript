@@ -1,9 +1,9 @@
 /** Your Javascript must be executed only when the document is loaded  */
 
 $('.slider').slick({
-  slidesToShow: 2,
-  slidesToScroll: 1,
-  autoplay: false,
+  slidesToShow: 4,
+  slidesToScroll: 2,
+  autoplay: true,
   autoplaySpeed: 2000,
 });
 			
